@@ -1,6 +1,6 @@
 cask "abubtranslate" do
-  version "1.0.0"
-  sha256 "2ba01b061aec54b321243b8ead799cd0887229e70be08eca4e77ad60e639fcc1"
+  version "1.0.1"
+  sha256 "0702bc28c7ca8093c41b6f34e698a68b20ae93eb99193751bc20a9113c28395d"
 
   url "https://github.com/Abubiker/AbubTranslate/releases/download/v#{version}/AbubTranslate.dmg"
   name "AbubTranslate"
